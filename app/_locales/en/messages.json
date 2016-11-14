@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "hide fb trending",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Remove the fucking biased trending articles from chrome",
+    "description": "The description of the application"
+  }
+}
