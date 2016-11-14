@@ -8,6 +8,10 @@
     "128": "images/icon-128.png"
   },
   "default_locale": "en",
+  "background": {
+    "scripts": [
+    ]
+  },
   "permissions": [
     "tabs",
     "*://*.facebook.com/*",
